@@ -1,7 +1,7 @@
 # Your life is fleeting
 
 Stop wasting time on things that don't matter.
-This reminds me everyday of how my life is passing quickly., and how many more sunsets I will get to see. (Not many recently)
+This reminds me everyday of how my life is passing quickly., and how many more sunsets I will get to see.
 
 # How to use
 
