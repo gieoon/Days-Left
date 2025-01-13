@@ -10,10 +10,10 @@ This reminds me everyday of how my life is passing quickly., and how many more s
 # How to use
 
 1. Run this script in App Script after changing it to your own email address and target date.
-I'm calculating from 80 and working backwards.
+I'm calculating backwards from 80.
 
 1. Paste it into App Script and give it a test run.
 
 1. Add a trigger to make it run at a set time everyday.
 
-1. Respect your life
+1. Don't waste your time
