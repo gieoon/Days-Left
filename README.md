@@ -17,3 +17,15 @@ I'm calculating backwards from 80.
 1. Add a trigger to make it run at a set time everyday.
 
 1. Don't waste your time
+
+# This is surprisingly useful
+
+It helps me just do it instead of getting stuck in analysis paralysis.
+
+```
+So, I'm the OP and I've been using this for a while, and I have to admit I made it when I was feeling kinda meh and like i was wasting life.
+
+But recently, I look at it and it's an antidote to a lot of the anxiety and overthinking i feel. Like, instead of worrying that im not good enough, or why i wont do something, I'm reminded that my life is short. And it kind of just feels like i should just do it and stop overthinking.
+
+I'm starting to think that other similar reminders, would also be useful. And with chatgpt you can ahve this companion coach to help you through stuff.
+```
